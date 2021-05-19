@@ -1,1 +1,1 @@
-# stock-prediction-using-ML
+# STOCK PREDICTION  USING MACHINE LEARNING
